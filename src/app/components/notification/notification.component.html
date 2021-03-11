@@ -1,0 +1,19 @@
+<h1>Web Push Notification</h1>
+
+
+  <input type="text" name="client" id="client" [(ngModel)]="client" />
+
+  
+  <button [disabled]="isSubscribed" (click)="subscribeToNotifications()">
+    Subscribe
+  </button>
+
+
+  <button *ngIf="isSubscribed" (click)="unsubscribe()">
+    Unsubscribe
+  </button>
+
+  <br/><br/>
+  <button *ngIf="isSubscribed" (click)="sendNotification()">
+    Send Notification
+  </button>
