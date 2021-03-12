@@ -5,8 +5,6 @@ self.addEventListener('fetch', function (event) { });
 self.addEventListener('notificationclick', function (e) {
     var notification = e.notification;
     var action = e.action;
-    console.log('notification');
-    console.log(e.notification);
 
     if (action === 'close') {
         notification.close();
@@ -43,10 +41,6 @@ self.addEventListener('push', function (e) {
             },
         ]
     };
-    console.log('options');
-    console.log(options);
-    console.log(body);
-    console.log(typeof(options.body));
     e.waitUntil(
         self.registration.showNotification(body.Title, options)
     );

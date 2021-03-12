@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { HttpClient } from '@angular/common/http';
+import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Observable } from 'rxjs';
 
 @Injectable({
@@ -12,9 +12,12 @@ export class NotificationService {
   constructor(private http: HttpClient) { }
 
   saveSubscription(clientName:string, sub: any):Observable<any>{
-    
-    console.log(clientName);
-    return this.http.post(`${this.rootUrl}/subscribe/${clientName}`, sub);
+
+    return this.http.post(`${this.rootUrl}/subscribe/${clientName}`, JSON.stringify(sub), {
+      headers: new HttpHeaders({
+        'Content-Type': 'application/json'
+      })
+    });
   }
 
   removeSubscription(clientName: string){
@@ -22,6 +25,6 @@ export class NotificationService {
   }
 
   sendNotification(clientName: string){
-    return this.http.post(`${this.rootUrl}/notify`, clientName);
+    return this.http.post(`${this.rootUrl}/notify?client=${clientName}`, null, { responseType: 'text' });
   }
 }
