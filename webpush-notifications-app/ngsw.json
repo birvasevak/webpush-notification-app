@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1615868423703,
-  "index": "https://babuchellathurai.github.io/pwa-notification-app/index.html",
+  "timestamp": 1615869324696,
+  "index": "https://babuchellathurai.github.io/webpush-notification-app/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://babuchellathurai.github.io/pwa-notification-app/favicon.ico",
-        "https://babuchellathurai.github.io/pwa-notification-app/index.html",
-        "https://babuchellathurai.github.io/pwa-notification-app/main.7b4036a055004e659ce5.js",
-        "https://babuchellathurai.github.io/pwa-notification-app/manifest.webmanifest",
-        "https://babuchellathurai.github.io/pwa-notification-app/polyfills.5e0ce2c1a99c8658e3f9.js",
-        "https://babuchellathurai.github.io/pwa-notification-app/runtime.acf0dec4155e77772545.js",
-        "https://babuchellathurai.github.io/pwa-notification-app/service-worker.js",
-        "https://babuchellathurai.github.io/pwa-notification-app/styles.09e2c710755c8867a460.css"
+        "https://babuchellathurai.github.io/webpush-notification-app/favicon.ico",
+        "https://babuchellathurai.github.io/webpush-notification-app/index.html",
+        "https://babuchellathurai.github.io/webpush-notification-app/main.7b4036a055004e659ce5.js",
+        "https://babuchellathurai.github.io/webpush-notification-app/manifest.webmanifest",
+        "https://babuchellathurai.github.io/webpush-notification-app/polyfills.5e0ce2c1a99c8658e3f9.js",
+        "https://babuchellathurai.github.io/webpush-notification-app/runtime.acf0dec4155e77772545.js",
+        "https://babuchellathurai.github.io/webpush-notification-app/service-worker.js",
+        "https://babuchellathurai.github.io/webpush-notification-app/styles.09e2c710755c8867a460.css"
       ],
       "patterns": []
     },
@@ -30,40 +30,40 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://babuchellathurai.github.io/pwa-notification-app/assets/icons/checkmark.png",
-        "https://babuchellathurai.github.io/pwa-notification-app/assets/icons/icon-128x128.png",
-        "https://babuchellathurai.github.io/pwa-notification-app/assets/icons/icon-144x144.png",
-        "https://babuchellathurai.github.io/pwa-notification-app/assets/icons/icon-152x152.png",
-        "https://babuchellathurai.github.io/pwa-notification-app/assets/icons/icon-192x192.png",
-        "https://babuchellathurai.github.io/pwa-notification-app/assets/icons/icon-384x384.png",
-        "https://babuchellathurai.github.io/pwa-notification-app/assets/icons/icon-512x512.png",
-        "https://babuchellathurai.github.io/pwa-notification-app/assets/icons/icon-72x72.png",
-        "https://babuchellathurai.github.io/pwa-notification-app/assets/icons/icon-96x96.png",
-        "https://babuchellathurai.github.io/pwa-notification-app/assets/icons/red_x.png"
+        "https://babuchellathurai.github.io/webpush-notification-app/assets/icons/checkmark.png",
+        "https://babuchellathurai.github.io/webpush-notification-app/assets/icons/icon-128x128.png",
+        "https://babuchellathurai.github.io/webpush-notification-app/assets/icons/icon-144x144.png",
+        "https://babuchellathurai.github.io/webpush-notification-app/assets/icons/icon-152x152.png",
+        "https://babuchellathurai.github.io/webpush-notification-app/assets/icons/icon-192x192.png",
+        "https://babuchellathurai.github.io/webpush-notification-app/assets/icons/icon-384x384.png",
+        "https://babuchellathurai.github.io/webpush-notification-app/assets/icons/icon-512x512.png",
+        "https://babuchellathurai.github.io/webpush-notification-app/assets/icons/icon-72x72.png",
+        "https://babuchellathurai.github.io/webpush-notification-app/assets/icons/icon-96x96.png",
+        "https://babuchellathurai.github.io/webpush-notification-app/assets/icons/red_x.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://babuchellathurai.github.io/pwa-notification-app/assets/icons/checkmark.png": "f718b9a8cbcb343e8e6366d8f4b1a82a718b46a1",
-    "https://babuchellathurai.github.io/pwa-notification-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "https://babuchellathurai.github.io/pwa-notification-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "https://babuchellathurai.github.io/pwa-notification-app/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "https://babuchellathurai.github.io/pwa-notification-app/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "https://babuchellathurai.github.io/pwa-notification-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://babuchellathurai.github.io/pwa-notification-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://babuchellathurai.github.io/pwa-notification-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "https://babuchellathurai.github.io/pwa-notification-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://babuchellathurai.github.io/pwa-notification-app/assets/icons/red_x.png": "0f59016373b7edf53a88758d3fa9ec90f5093c82",
-    "https://babuchellathurai.github.io/pwa-notification-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://babuchellathurai.github.io/pwa-notification-app/index.html": "6d8ffd049ee1efbe511176cedb4cac5da52c1030",
-    "https://babuchellathurai.github.io/pwa-notification-app/main.7b4036a055004e659ce5.js": "846ad705a3419f35d0a399a2ecedaf61ba4502ef",
-    "https://babuchellathurai.github.io/pwa-notification-app/manifest.webmanifest": "6e20f535e091938890e595693dee7a5749e7eb02",
-    "https://babuchellathurai.github.io/pwa-notification-app/polyfills.5e0ce2c1a99c8658e3f9.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
-    "https://babuchellathurai.github.io/pwa-notification-app/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "https://babuchellathurai.github.io/pwa-notification-app/service-worker.js": "46f922572a851c3e902fc6c50a2c22d3baa4f863",
-    "https://babuchellathurai.github.io/pwa-notification-app/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://babuchellathurai.github.io/webpush-notification-app/assets/icons/checkmark.png": "f718b9a8cbcb343e8e6366d8f4b1a82a718b46a1",
+    "https://babuchellathurai.github.io/webpush-notification-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://babuchellathurai.github.io/webpush-notification-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://babuchellathurai.github.io/webpush-notification-app/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://babuchellathurai.github.io/webpush-notification-app/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://babuchellathurai.github.io/webpush-notification-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://babuchellathurai.github.io/webpush-notification-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://babuchellathurai.github.io/webpush-notification-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://babuchellathurai.github.io/webpush-notification-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://babuchellathurai.github.io/webpush-notification-app/assets/icons/red_x.png": "0f59016373b7edf53a88758d3fa9ec90f5093c82",
+    "https://babuchellathurai.github.io/webpush-notification-app/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://babuchellathurai.github.io/webpush-notification-app/index.html": "518c2d5ee0d635c42d341cc34686396529c95988",
+    "https://babuchellathurai.github.io/webpush-notification-app/main.7b4036a055004e659ce5.js": "846ad705a3419f35d0a399a2ecedaf61ba4502ef",
+    "https://babuchellathurai.github.io/webpush-notification-app/manifest.webmanifest": "6e20f535e091938890e595693dee7a5749e7eb02",
+    "https://babuchellathurai.github.io/webpush-notification-app/polyfills.5e0ce2c1a99c8658e3f9.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
+    "https://babuchellathurai.github.io/webpush-notification-app/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://babuchellathurai.github.io/webpush-notification-app/service-worker.js": "46f922572a851c3e902fc6c50a2c22d3baa4f863",
+    "https://babuchellathurai.github.io/webpush-notification-app/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
