@@ -129,6 +129,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "webpush-notifications-app"
+    }
+  },
+  "defaultProject": "webpush-notifications-app",
+  "cli": {
+    "analytics": "c9aa2e76-6aaf-4a09-9213-61e58d070168"
+  }
 }
